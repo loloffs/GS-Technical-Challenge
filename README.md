@@ -25,7 +25,7 @@ Output: 29 is a prime number
 
 ## Technical Notes
 
-This app uses Vue.js with no back end. It has a custom function library called prime.js stored inside the libs directory. It uses Mocha and Chai for unit tests, HTML and CSS for styling, and two Vue components called Navbar and Calculate. 
+This app uses Vue.js with no back end. It has a custom function library called prime.js stored inside the helpers directory. It uses Mocha and Chai for unit tests, HTML and CSS for styling, and two Vue components called Navbar and Calculate. 
 
 ## Requirements
 ```
